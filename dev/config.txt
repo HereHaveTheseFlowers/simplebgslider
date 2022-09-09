@@ -1,3 +1,0 @@
-start: true
-stop: true
-speed: 1
